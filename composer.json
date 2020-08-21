@@ -11,11 +11,11 @@
     "authors": [
         {
             "name": "HimikLab",
-            "homepage": "https://github.com/mix8872/"
+            "homepage": "https://github.com/himiklab/"
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0.11",
+        "yiisoft/yii2": "~2.0.14",
         "yiisoft/yii2-httpclient": "*"
     },
     "require-dev": {
